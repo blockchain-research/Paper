@@ -24,6 +24,8 @@
 
 ## Bitcoin and Blockchain Applications
 1. [SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies](http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf)
+2. [Bitcoin’s Academic Pedigree](http://delivery.acm.org/10.1145/3140000/3132259/p36-narayanan.pdf?ip=202.135.245.2&id=3132259&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1541990830_93c3dc6f16ab85614d2cfe1863d9872e)
+
 
 ### Exchanges
 1. [Escrow protocols for cryptocurrencies: How to buy physical goods using Bitcoin](http://www.jbonneau.com/doc/GBGN17-FC-physical_escrow.pdf)
@@ -38,6 +40,7 @@
 
 ### Voting
 1. [BatchVote: Voting rules designed for auditability](https://link.springer.com/chapter/10.1007/978-3-319-70278-0_20)
+2. [A Smart Contract for Boardroom Voting with Maximum Voter Privacy](http://fc17.ifca.ai/preproceedings/paper_80.pdf)
 
 ## Privacy
 ### Theory
