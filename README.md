@@ -86,7 +86,7 @@
 2. [PieceWork: Generalized Outsourcing Control for Proofs of Work](https://www.initc3.org/files/PieceWork.pdf)
 3. [Proofs of Useful Work](https://eprint.iacr.org/2017/203.pdf)
 
-## Side-Chain & Sharing
+### Side-Chain & Sharing
 1. [Revive: Rebalancing Off-Blockchain Payment Networks](https://eprint.iacr.org/2017/823.pdf)
 2. [Service-Oriented Sharding for Blockchains](https://link.springer.com/chapter/10.1007/978-3-319-70972-7_22)
 3. [On Scaling Decentralized Blockchains](https://fc16.ifca.ai/bitcoin/papers/CDE+16.pdf)
