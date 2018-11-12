@@ -1,7 +1,7 @@
 # Paper
 
 ## Cryptography
-### Basic Theory
+### Basics
 1. [Non-interfactive and Information-theoretic secure verifiable secret sharing](https://www.cs.cornell.edu/courses/cs754/2001fa/129.PDF)
 2. [Timed Commitments](https://pdfs.semanticscholar.org/764b/41d1cf0c2c64bec722f0afd4b0a2ce0bee27.pdf)
 
@@ -14,7 +14,7 @@
 1. [Publicly Auditable Secure Multi-Party Computation](https://eprint.iacr.org/2014/075.pdf)
 2. [Multiparty Computation from Somewhat Homomorphic Encryption](https://eprint.iacr.org/2011/535.pdf)
 
-### Zero-knowledge Proof Theory
+### Zero-knowledge Proof
 1. [Quadratic Span Programs and Succinct NIZKs without PCPs](https://eprint.iacr.org/2012/215.pdf)
 2. [Cryptology and Its Applications: Zero knowledge and some applications](http://kodu.ut.ee/~lipmaa/teaching/Bergen2004.pdf)
 3. [Bulletproofs: Short Proofs for confidential transactions and more](https://eprint.iacr.org/2017/1066.pdf)
@@ -38,18 +38,19 @@
 
 ### Voting
 1. [BatchVote: Voting rules designed for auditability](https://link.springer.com/chapter/10.1007/978-3-319-70278-0_20)
-2. 
 
 ## Privacy
-### Privacy Theory
+### Theory
 *Oblivous-RAM*
 1. [Path ORAM: An Extremely Simple Oblivious RAM Protocol](https://eprint.iacr.org/2013/280.pdf)
 2. [Group ORAM: Privacy and Access Control for Outsourced Personal Records](https://sps.cs.uni-saarland.de/publications/oakland15.pdf)
 3. [Circuit ORAM: On Tightness of the Goldreich-Ostrovsky Lower Bound](https://eprint.iacr.org/2014/672.pdf)
-4. [Solidus: Confidential Distributed Ledger Transactions via PVORM](https://eprint.iacr.org/2017/317.pdf)
 
+*Identity Mix*
+1. [Design and Implementation of the idemix Anonymous Credential System](https://www.freehaven.net/anonbib/cache/idemix.pdf)
+2. [An efficient system for non-transferable anonymous credentials with optional anonymity revocation](https://eprint.iacr.org/2001/019.pdf)
 
-### Privacy Applications
+### Applications
 *Coin*
 1. [Confidential Assets](https://blockstream.com/bitcoin17-final41.pdf)
 2. [Blindly Signed Contracts: Anonymous On-Blockchain and Off-Blockchain Bitcoin Transactions](https://eprint.iacr.org/2016/056.pdf)
@@ -62,21 +63,15 @@
 9. [Privacy on the Blockchain: Unique Ring Signatures](https://arxiv.org/pdf/1612.01188.pdf)
 10. [Auditable, Anonymous Electronic Cash Extended Abstract.](https://www.cs.tau.ac.il/~amnon/Papers/ST.crypto99.pdf)
 11. [zkLedger: Privacy-Preserving Auditing for Distributed Ledgers](https://eprint.iacr.org/2018/241.pdf)
-
+12. [Solidus: Confidential Distributed Ledger Transactions via PVORM](https://eprint.iacr.org/2017/317.pdf)
 
 *Smart Contracts*
 1. [Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts](https://eprint.iacr.org/2015/675.pdf)
-
-*Identity*
-1. [Design and Implementation of the idemix Anonymous Credential System](https://www.freehaven.net/anonbib/cache/idemix.pdf)
-2. [An efficient system for non-transferable anonymous credentials with optional anonymity revocation](https://eprint.iacr.org/2001/019.pdf)
-
 
 *Differential Privacy for Machine Learning*
 1. [Semi-supervised knowledge transfer for deep learning from private training data](https://arxiv.org/pdf/1610.05755.pdf)
 2. [Decentralizing Privacy: Using Blockchain to Protect Personal Data](https://enigma.co/ZNP15.pdf)
 3. [Deep Learning with Differential Privacy](https://arxiv.org/abs/1607.00133)
-
 
 ## Consensus
 ### Byzantine
