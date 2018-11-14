@@ -31,6 +31,7 @@
 1. [Escrow protocols for cryptocurrencies: How to buy physical goods using Bitcoin](http://www.jbonneau.com/doc/GBGN17-FC-physical_escrow.pdf)
 2. [Atomic Cross-Chain Swaps](https://arxiv.org/pdf/1801.09515.pdf)
 3. [Atomic Cross-Channel Swaps: Channels: Horizontal Scaling and Confidentiality on Permissioned Blockchains](https://link.springer.com/chapter/10.1007/978-3-319-99073-6_6)
+4. [Simple and fast optimistic protocols for fair electronic exchange](https://dl.acm.org/citation.cfm?id=872038)
 
 ### Payments
 1. [PayWord and MicroMint: Two simple micropayment schemes](https://people.csail.mit.edu/rivest/RivestShamir-mpay.pdf)
