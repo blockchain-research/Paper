@@ -2,8 +2,10 @@
 
 ## Cryptography
 ### Basics
-1. [Non-interfactive and Information-theoretic secure verifiable secret sharing](https://www.cs.cornell.edu/courses/cs754/2001fa/129.PDF)
-2. [Timed Commitments](https://pdfs.semanticscholar.org/764b/41d1cf0c2c64bec722f0afd4b0a2ce0bee27.pdf)
+1. [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/)
+2. [Understanding Cryptography](http://khosach.info/store/msresource/it/book/Understanding-Cryptography.pdf)
+3. [Non-interfactive and Information-theoretic secure verifiable secret sharing](https://www.cs.cornell.edu/courses/cs754/2001fa/129.PDF)
+4. [Timed Commitments](https://pdfs.semanticscholar.org/764b/41d1cf0c2c64bec722f0afd4b0a2ce0bee27.pdf)
 
 ### Ring Signatures
 1. [How to leak a secret](https://www.iacr.org/archive/asiacrypt2001/22480554.pdf)
@@ -11,8 +13,10 @@
 3. [k-times Full Traceable Ring Signature](https://ieeexplore.ieee.org/document/7784554)
 
 ### Multi Party Computation
-1. [Publicly Auditable Secure Multi-Party Computation](https://eprint.iacr.org/2014/075.pdf)
-2. [Multiparty Computation from Somewhat Homomorphic Encryption](https://eprint.iacr.org/2011/535.pdf)
+1. [Applications of secure multiparty computation](http://ebooks.iospress.nl/volume/applications-of-secure-multiparty-computation)
+2. [From Keys to Databases – Real-World Applications of Secure Multi-Party Computation](https://eprint.iacr.org/2018/450.pdf)
+3. [Publicly Auditable Secure Multi-Party Computation](https://eprint.iacr.org/2014/075.pdf)
+4. [Multiparty Computation from Somewhat Homomorphic Encryption](https://eprint.iacr.org/2011/535.pdf)
 
 ### Zero-knowledge Proof
 1. [Quadratic Span Programs and Succinct NIZKs without PCPs](https://eprint.iacr.org/2012/215.pdf)
