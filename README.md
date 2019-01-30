@@ -103,5 +103,8 @@
 2. [Service-Oriented Sharding for Blockchains](https://link.springer.com/chapter/10.1007/978-3-319-70972-7_22)
 3. [On Scaling Decentralized Blockchains](https://fc16.ifca.ai/bitcoin/papers/CDE+16.pdf)
 
-
+## Interoperability
+1. [Chain Interoperability](https://static1.squarespace.com/static/55f73743e4b051cfcc0b02cf/t/5886800ecd0f68de303349b1/1485209617040/Chain+Interoperability.pdf)
+2. [Interledger Protocol v4](https://interledger.org/rfcs/0027-interledger-protocol-4/)
+3. [A protocol for interledger payments](https://interledger.org/interledger.pdf)
 
