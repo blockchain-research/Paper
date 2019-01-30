@@ -6,6 +6,7 @@
 2. [Understanding Cryptography](http://khosach.info/store/msresource/it/book/Understanding-Cryptography.pdf)
 3. [Non-interfactive and Information-theoretic secure verifiable secret sharing](https://www.cs.cornell.edu/courses/cs754/2001fa/129.PDF)
 4. [Timed Commitments](https://pdfs.semanticscholar.org/764b/41d1cf0c2c64bec722f0afd4b0a2ce0bee27.pdf)
+5. [Batching Techniques for Accumulators with Applications to IOPs and Stateless Blockchains](https://eprint.iacr.org/2018/1188.pdf?TB_iframe=true&width=370.8&height=658.8)
 
 ### Ring Signatures
 1. [How to leak a secret](https://www.iacr.org/archive/asiacrypt2001/22480554.pdf)
@@ -37,6 +38,7 @@
 3. [Atomic Cross-Channel Swaps: Channels: Horizontal Scaling and Confidentiality on Permissioned Blockchains](https://link.springer.com/chapter/10.1007/978-3-319-99073-6_6)
 4. [Simple and fast optimistic protocols for fair electronic exchange](https://dl.acm.org/citation.cfm?id=872038)
 5. [Provisions: privacy preserving proofs of solvency](http://www.jbonneau.com/doc/DBBCB15-CCS-provisions.pdf)
+6. [Initial Public Offering (IPO) on Permissioned Blockchain using Secure Multiparty Computation](https://shaih.github.io/pubs/BDH+18.pdf)
 
 ### Payments
 1. [PayWord and MicroMint: Two simple micropayment schemes](https://people.csail.mit.edu/rivest/RivestShamir-mpay.pdf)
@@ -73,6 +75,7 @@
 10. [Auditable, Anonymous Electronic Cash Extended Abstract.](https://www.cs.tau.ac.il/~amnon/Papers/ST.crypto99.pdf)
 11. [zkLedger: Privacy-Preserving Auditing for Distributed Ledgers](https://eprint.iacr.org/2018/241.pdf)
 12. [Solidus: Confidential Distributed Ledger Transactions via PVORM](https://eprint.iacr.org/2017/317.pdf)
+13. [Quisquis: A New Design for Anonymous Cryptocurrencies](https://eprint.iacr.org/2018/990.pdf)
 
 *Smart Contracts*
 1. [Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts](https://eprint.iacr.org/2015/675.pdf)
