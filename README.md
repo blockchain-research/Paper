@@ -38,7 +38,7 @@
 3. [Atomic Cross-Channel Swaps: Channels: Horizontal Scaling and Confidentiality on Permissioned Blockchains](https://link.springer.com/chapter/10.1007/978-3-319-99073-6_6)
 4. [Simple and fast optimistic protocols for fair electronic exchange](https://dl.acm.org/citation.cfm?id=872038)
 5. [Provisions: privacy preserving proofs of solvency](http://www.jbonneau.com/doc/DBBCB15-CCS-provisions.pdf)
-6. [Initial Public Offering (IPO) on Permissioned Blockchain using Secure Multiparty Computation](https://shaih.github.io/pubs/BDH+18.pdf)
+
 
 ### Payments
 1. [PayWord and MicroMint: Two simple micropayment schemes](https://people.csail.mit.edu/rivest/RivestShamir-mpay.pdf)
@@ -84,6 +84,10 @@
 1. [Semi-supervised knowledge transfer for deep learning from private training data](https://arxiv.org/pdf/1610.05755.pdf)
 2. [Decentralizing Privacy: Using Blockchain to Protect Personal Data](https://enigma.co/ZNP15.pdf)
 3. [Deep Learning with Differential Privacy](https://arxiv.org/abs/1607.00133)
+
+*Multi-party computation*
+1. [Supporting Private Data on Hyperledger Fabric with Secure Multiparty Computation](https://shaih.github.io/pubs/BHH18.pdf)
+2. [Initial Public Offering (IPO) on Permissioned Blockchain using Secure Multiparty Computation](https://shaih.github.io/pubs/BDH+18.pdf)
 
 ## Consensus
 ### Byzantine
