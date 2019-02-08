@@ -111,4 +111,5 @@
 1. [Chain Interoperability](https://static1.squarespace.com/static/55f73743e4b051cfcc0b02cf/t/5886800ecd0f68de303349b1/1485209617040/Chain+Interoperability.pdf)
 2. [Interledger Protocol v4](https://interledger.org/rfcs/0027-interledger-protocol-4/)
 3. [A protocol for interledger payments](https://interledger.org/interledger.pdf)
+4. [Anonymous Multi-Hop Locks for Blockchain Scalability and Interoperability](https://eprint.iacr.org/2018/472.pdf)
 
