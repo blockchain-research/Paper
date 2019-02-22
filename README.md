@@ -7,6 +7,7 @@
 3. [Non-interfactive and Information-theoretic secure verifiable secret sharing](https://www.cs.cornell.edu/courses/cs754/2001fa/129.PDF)
 4. [Timed Commitments](https://pdfs.semanticscholar.org/764b/41d1cf0c2c64bec722f0afd4b0a2ce0bee27.pdf)
 5. [Batching Techniques for Accumulators with Applications to IOPs and Stateless Blockchains](https://eprint.iacr.org/2018/1188.pdf?TB_iframe=true&width=370.8&height=658.8)
+6. [A Computational Introduction to Number Theory and Algebra](https://shoup.net/ntb/ntb-v2.pdf)
 
 ### Ring Signatures
 1. [How to leak a secret](https://www.iacr.org/archive/asiacrypt2001/22480554.pdf)
