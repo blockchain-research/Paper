@@ -32,7 +32,6 @@
 1. [SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies](http://www.jbonneau.com/doc/BMCNKF15-IEEESP-bitcoin.pdf)
 2. [Bitcoin’s Academic Pedigree](http://delivery.acm.org/10.1145/3140000/3132259/p36-narayanan.pdf?ip=202.135.245.2&id=3132259&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1541990830_93c3dc6f16ab85614d2cfe1863d9872e)
 
-
 ### Exchanges
 1. [Escrow protocols for cryptocurrencies: How to buy physical goods using Bitcoin](http://www.jbonneau.com/doc/GBGN17-FC-physical_escrow.pdf)
 2. [Atomic Cross-Chain Swaps](https://arxiv.org/pdf/1801.09515.pdf)
@@ -114,3 +113,7 @@
 3. [A protocol for interledger payments](https://interledger.org/interledger.pdf)
 4. [Anonymous Multi-Hop Locks for Blockchain Scalability and Interoperability](https://eprint.iacr.org/2018/472.pdf)
 
+## Databases
+1. [vChain: Enabling Verifiable Boolean Range Queries over Blockchain Databases](https://arxiv.org/pdf/1812.02386.pdf)
+2. [Blurring the Lines between Blockchains and Database Systems: the Case of Hyperledger Fabric] (https://www.researchgate.net/publication/332171915_Blurring_the_Lines_between_Blockchains_and_Database_Systems_the_Case_of_Hyperledger_Fabric)
+3. [Towards Scaling Blockchain Systems via Sharding](https://www.comp.nus.edu.sg/~hungdang/papers/sharding.pdf)
