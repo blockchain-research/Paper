@@ -45,6 +45,7 @@
 
 ### Auction
 1. [Strain: A Secure Auction for Blockchains](https://eprint.iacr.org/2017/1044.pdf)
+2. [Verifiable Sealed-Bid Auction on the Ethereum Blockchain](https://eprint.iacr.org/2018/704.pdf)
 
 ### Voting
 1. [BatchVote: Voting rules designed for auditability](https://link.springer.com/chapter/10.1007/978-3-319-70278-0_20)
@@ -112,6 +113,7 @@
 2. [Interledger Protocol v4](https://interledger.org/rfcs/0027-interledger-protocol-4/)
 3. [A protocol for interledger payments](https://interledger.org/interledger.pdf)
 4. [Anonymous Multi-Hop Locks for Blockchain Scalability and Interoperability](https://eprint.iacr.org/2018/472.pdf)
+5. [HyperService: Interoperability and Programmability Across Heterogeneous Blockchains](https://people.eecs.berkeley.edu/~penggao/resources/publications/papers/hyperservice-ccs19.pdf)
 
 ## Databases
 1. [vChain: Enabling Verifiable Boolean Range Queries over Blockchain Databases](https://arxiv.org/pdf/1812.02386.pdf)
